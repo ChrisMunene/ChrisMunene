@@ -30,9 +30,9 @@ I am currently a senior at 🎓[Harvard University](https://www.harvard.edu/) st
 <details>
   <summary>Projects I am currently working on</summary>
   
-  - Personal Journal/Blog - Stack: Django Rest Framework and React+NextJS
-  - Property listing website - Stack: Django Rest Framework and React+NextJs
-  - Mood-Based playlist generator for Spotify - Stack: Android(Kotlin) and ExpressJS
+  - 📗 Personal Journal/Blog - Stack: `Django Rest Framework` and `React + NextJS`
+  - 🏡 Property listing website - Stack: `Django Rest Framework` and `React + NextJs`
+  - 🎶 Mood-Based playlist generator for Spotify - Stack: `Android(Kotlin)` and `ExpressJS`
   
 </details>
 
@@ -46,8 +46,6 @@ I am currently a senior at 🎓[Harvard University](https://www.harvard.edu/) st
   - I love video games 🎮. Current favorites: FIFA 20 and Red Dead Redemption 2.
   - My go to jams when coding: Afrobeats! Favorite: On the low - Burna Boy ⭐️
   - I love playing/watching soccer⚽ and rugby🏉 in my free time.
- 
- <-- ![My github stats](https://github-readme-stats.vercel.app/api?username=chrismunene&show_icons=true) -->
 </details>
 
 <hr>
