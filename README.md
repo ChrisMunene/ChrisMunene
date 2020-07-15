@@ -1,5 +1,5 @@
 
-<img src="header.png" alt="Hero image">
+<img src="https://user-images.githubusercontent.com/25585576/87606357-73367700-c703-11ea-8221-cf2972c923cb.png" alt="Hero image">
 
 I am currently a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Computer Science and Psychology.
 
