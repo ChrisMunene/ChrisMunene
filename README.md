@@ -1,5 +1,5 @@
 
-<img src="Hey. I'm Chris (1).png" alt="Hero image">
+<img src="header.png" alt="Hero image">
 
 
 I am currently a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Computer Science and Psychology.
