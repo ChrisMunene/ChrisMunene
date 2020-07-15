@@ -1,4 +1,5 @@
-<img src="" alt="Hero image">
+
+<img src="Hey. I'm Chris (1).png" alt="Hero image">
 
 
 I am currently a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Computer Science and Psychology.
@@ -30,10 +31,9 @@ Projects I am currently working on:
   <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
 
   - I love aeroplanes✈️ and anything to do with Aviation. 
-  - I play rugby🏉 and futsal⚽ in my free time.
-  - I love video games 🎮. Current favorites: FIFA 20 and Red Dead Redemption. Awaiting the release of Microsoft Flight Simulator.
+  - I love video games 🎮. Current favorites: FIFA 20 and Red Dead Redemption 2.
   - I enjoy hobbyist game development in my free time.
-  - My go to jams when coding: Afrobeats. Periodt!⭐️
+  - My go to jams when coding: Afrobeats!⭐️
  
   ![My github stats](https://github-readme-stats.vercel.app/api?username=chrismunene&show_icons=true)
 </details>
@@ -43,11 +43,11 @@ Projects I am currently working on:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter">
+    <a href="https://twitter.com/the_chrismunene" alt="Twitter">
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />
     </a>
     <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" /></a>
+    <a href="mailto:munenechristoph@gmail.com" alt="Contact me"><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" /></a>
   </p>
 
   <p align="center">
