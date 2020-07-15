@@ -40,7 +40,7 @@ Projects I am currently working on:
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat!</i>
 
   <p align="center">
     <a href="https://twitter.com/the_chrismunene" alt="Twitter">
