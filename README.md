@@ -51,9 +51,12 @@ I am currently a senior at 🎓[Harvard University](https://www.harvard.edu/) st
 <hr>
 <p align="center">
   <i>Let's connect and chat!</i>
+  
 
   <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
+    <a href="Resume-updated.pdf" download>
+        <img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/>
+    </a>
     <a href="https://www.linkedin.com/in/chris-munene-kinyua/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"        alt="LinkedIn"></a>
     <a href="mailto:munenechristoph@gmail.com"><img src="https://img.shields.io/badge/Gmail-orange.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://www.instagram.com/the_chris_munene/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"             alt="Instagram"></a>
