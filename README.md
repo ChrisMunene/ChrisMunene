@@ -45,7 +45,7 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
   - I love aeroplanes✈️ and anything to do with Aviation. 
   - I love video games 🎮. Current favorites: FIFA 20 and Red Dead Redemption 2.
   - My go to jams when coding: Afrobeats! Favorite: On the low - Burna Boy ⭐️
-  - I love playing/watching soccer⚽ and rugby🏉 in my free time.
+  - I love playing/watching soccer⚽ in my free time.
 </details>
 
 <hr>
