@@ -20,8 +20,6 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
 <br>
 <details>
   <summary>What I'm currently learning</summary>
-  
-  - 👩🏻‍💻 Full-Stack development with [Ruby on Rails](https://rubyonrails.org/)
   - 📱 Mobile and Web Development with [Flutter](https://flutter.dev/)
   
 </details>
