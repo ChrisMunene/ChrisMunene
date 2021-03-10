@@ -5,9 +5,9 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
 
 ## I am passionate about:
  - Human-centered design
- - creating beautiful, performant and user-friendly app and website experiences.
- - finding simple solutions to complex problems.
- - experimenting with new technologies.
+ - Creating beautiful, performant and user-friendly app and website experiences.
+ - Finding simple solutions to complex problems.
+ - Experimenting with new technologies.
  
 
 ## Areas of Expertise
