@@ -37,13 +37,13 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
 
 
 <details>
-  <summary>Some interesting facts about me...</summary>
+  <summary>Some interesting tidbits about me...</summary>
   <br>
   <p><i>Here we go.... 🎶</i><p>
   
   - I love aeroplanes✈️ and anything to do with Aviation. 
-  - I love video games 🎮. Current favorites: FIFA 20 and Red Dead Redemption 2.
-  - My go to jams when coding: Afrobeats! Favorite: On the low - Burna Boy ⭐️
+  - I love video games 🎮. Current favorites: Super Mario Odyssey and Red Dead Redemption 2.
+  - My go to jams when coding: Afrobeat! Favorite: On the low - Burna Boy ⭐️
   - I love playing/watching soccer⚽ in my free time.
 </details>
 
