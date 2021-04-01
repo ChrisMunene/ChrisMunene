@@ -11,7 +11,7 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
  
 
 ## Areas of Expertise
-- 👩🏻‍💻 Front-End Development with [React](https://reactjs.org/), [Redux](https://react-redux.js.org/) and [NextJS](https://nextjs.org/)
+- 👩🏻‍💻 Front-End Development with [React](https://reactjs.org/), [Redux](https://react-redux.js.org/) and [Material UI](https://material-ui.com/)
 - 👩🏻‍💻 Full-Stack development with [Django](https://www.djangoproject.com/) or [Node & Express](https://expressjs.com/)
 - 📱 Mobile Development with [React Native](https://reactnative.dev/) or  [Kotlin](https://kotlinlang.org/)
 - 📊 Data Visualization with [D3.js](https://d3js.org/) or [Tableau](https://www.tableau.com/)
@@ -21,7 +21,7 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
 <details>
   <summary>What I'm currently learning</summary>
  
-  - 📱 Mobile and Web Development with [Flutter](https://flutter.dev/)
+  - 📱 Mobile Development with [Kotlin](https://kotlinlang.org/)
   
 </details>
 
@@ -42,7 +42,7 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
   <p><i>Here we go.... 🎶</i><p>
   
   - I love aeroplanes✈️ and anything to do with Aviation. 
-  - I love video games 🎮. Current favorites: Super Mario Odyssey and Red Dead Redemption 2.
+  - I love video games 🎮. Current favorites: It takes two, Super Mario Odyssey and Red Dead Redemption 2.
   - My go to jams when coding: Afrobeat! Favorite: On the low - Burna Boy ⭐️
   - I love playing/watching soccer⚽ in my free time.
 </details>
