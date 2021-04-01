@@ -43,7 +43,7 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
   
   - I love aeroplanes✈️ and anything to do with Aviation. 
   - I love video games 🎮. Current favorites: Legend of Zelda (Breath of the Wild), Super Mario Odyssey and Red Dead Redemption 2.
-  - Favorite Book: The Design of Everyday things
+  - Favorite Book: The Design of Everyday Things - Don Norman
   - Favorite Movies: The ShawShank Redemption, InterStellar, The Dark Knight and Iron Man.
   - Favorite Series: Avatar - The Last Air Bender, The Office and Game of Thrones (Before season 8 sunk that mighty ship).
   - My go to jams when coding: Afrobeat! Favorite: On the low - Burna Boy ⭐️
