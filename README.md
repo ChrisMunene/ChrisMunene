@@ -42,7 +42,7 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
   <p><i>Here we go.... 🎶</i><p>
   
   - I love aeroplanes✈️ and anything to do with Aviation. 
-  - I love video games 🎮. Current favorites: It takes two, Super Mario Odyssey and Red Dead Redemption 2.
+  - I love video games 🎮. Current favorites: Legend of Zelda (Breath of the Wild), Super Mario Odyssey and Red Dead Redemption 2.
   - My go to jams when coding: Afrobeat! Favorite: On the low - Burna Boy ⭐️
   - I love playing/watching soccer⚽ in my free time.
 </details>
