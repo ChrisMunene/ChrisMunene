@@ -11,8 +11,8 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
  
 
 ## Areas of Expertise
-- 👩🏻‍💻 Front-End Development with [React](https://reactjs.org/), [Redux](https://react-redux.js.org/) and [Material UI](https://material-ui.com/)
-- 👩🏻‍💻 Full-Stack development with [Django](https://www.djangoproject.com/) or [Node & Express](https://expressjs.com/)
+- 👩🏻‍💻 Front-End Development with [React](https://reactjs.org/)
+- 👩🏻‍💻 Full-Stack development with [Ruby on Rails](https://rubyonrails.org/) or [Node & Express](https://expressjs.com/)
 - 📱 Mobile Development with [React Native](https://reactnative.dev/) or  [Kotlin](https://kotlinlang.org/)
 - 📊 Data Visualization with [D3.js](https://d3js.org/) or [Tableau](https://www.tableau.com/)
 - 🌹 UI/UX Design(Interviewing, Usability Testing/Research, Sketching) and Prototyping with [Figma](https://www.figma.com/) or [MockingBot](https://mockingbot.com/)
@@ -21,17 +21,16 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
 <details>
   <summary>What I'm currently learning</summary>
  
-  - 📱 Mobile Development with [Kotlin](https://kotlinlang.org/)
-  
+  - 🖥 Building cool websites with [Webflow](https://webflow.com/)
+  - 📺 3D website development with [ThreeJS](https://threejs.org/)
 </details>
 
 
 <details>
   <summary>Projects I am currently working on</summary>
-  
-  - 📗 Personal Journal/Blog - Stack: `Django Rest Framework` and `React + NextJS`
-  - 🏡 Property listing website - Stack: `Django Rest Framework` and `React + NextJs`
-  - 🎶 Mood-Based playlist generator for Spotify - Stack: `Android(Kotlin)` and `ExpressJS`
+ 
+ - 🏠 Short term rental marketplace - Stack: `React` and `Rails`
+ - 🎶 Collaborative playlist app - Stack: `React` and `ExpressJS`
   
 </details>
 
