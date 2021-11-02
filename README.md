@@ -14,15 +14,25 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
 - 👩🏻‍💻 Front-End Development with [React](https://reactjs.org/)
 - 👩🏻‍💻 Full-Stack development with [Ruby on Rails](https://rubyonrails.org/) or [Node & Express](https://expressjs.com/)
 - 📱 Mobile Development with [React Native](https://reactnative.dev/) or  [Kotlin](https://kotlinlang.org/)
-- 📊 Data Visualization with [D3.js](https://d3js.org/) or [Tableau](https://www.tableau.com/)
-- 🌹 UI/UX Design(Interviewing, Usability Testing/Research, Sketching) and Prototyping with [Figma](https://www.figma.com/) or [MockingBot](https://mockingbot.com/)
+- 📊 Data Visualization with [D3.js](https://d3js.org/)
+- 🌹 UI/UX Design(Interviewing, Usability Testing/Research, Sketching) and Prototyping with [Figma](https://www.figma.com/)
+
+## Current Job
+- I am a Frontend Developer at [Hatch Credit, Inc](https://www.hatchcard.com/), a venture-backed startup that is building financial products for small business owners.
+- I am also a [Kleiner Perkins Engineering Fellow](https://fellows.kleinerperkins.com/) in the 2021 Cohort.
+
+
+## Previous Jobs
+- I was a [Facebook](https://meta.com/) intern at their Seattle office where I learned all things ✨Android✨.
+- I worked at [Dev: A Harvard Student Agency](https://www.hsa.dev/) as a full-stack developer where I built web and mobile apps for 2 years.
+- My first developer job was at [Twende Mobility](https://www.twende.app/), a Kenyan startup that is building logistics solutions such as carpooling and on demand delivery services.
 
 <br>
 <details>
   <summary>What I'm currently learning</summary>
  
-  - 🖥 Building cool websites with [Webflow](https://webflow.com/)
-  - 📺 3D website development with [ThreeJS](https://threejs.org/)
+  - Building cool websites with [Webflow](https://webflow.com/)
+  - 3D website development with [ThreeJS](https://threejs.org/)
 </details>
 
 
@@ -43,9 +53,9 @@ I am a senior at 🎓[Harvard University](https://www.harvard.edu/) studying Com
   - I love aeroplanes✈️ and anything to do with Aviation. 
   - I love video games 🎮. Current favorites: Legend of Zelda (Breath of the Wild), Super Mario Odyssey and Red Dead Redemption 2.
   - Favorite Book: The Design of Everyday Things - Don Norman
-  - Favorite Movies: The ShawShank Redemption, InterStellar, The Dark Knight and Iron Man.
+  - Favorite Movies: The ShawShank Redemption, InterStellar, Shutter Island, The Dark Knight and Iron Man.
   - Favorite Series: Avatar - The Last Air Bender, The Office and Game of Thrones (Before season 8 sunk that mighty ship).
-  - My go to jams when coding: Afrobeat! Favorite: On the low - Burna Boy ⭐️
+  - My go to jams when coding: Afrobeat! Favorite: Damages - Tems ⭐️
   - I love playing/watching soccer⚽ in my free time.
 </details>
 
