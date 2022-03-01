@@ -14,17 +14,17 @@ Harvard University - Bachelor of Arts, Computer Science. Graduated in 2021
 
 ## Areas of Expertise
 - 👩🏻‍💻 Front-End Development with [React](https://reactjs.org/)
-- 👩🏻‍💻 Full-Stack development with [Ruby on Rails](https://rubyonrails.org/) or [Node & Express](https://expressjs.com/)
-- 📱 Mobile Development with [React Native](https://reactnative.dev/) or  [Kotlin](https://kotlinlang.org/)
+- 📱 Mobile Development with [Flutter](https://flutter.dev/), [React Native](https://reactnative.dev/) or  [Kotlin](https://kotlinlang.org/)
 - 📊 Data Visualization with [D3.js](https://d3js.org/)
 - 🌹 UI/UX Design(Interviewing, Usability Testing/Research, Sketching) and Prototyping with [Figma](https://www.figma.com/)
 
 ## Current Job
-- I am a Frontend Developer at [Hatch Credit, Inc](https://www.hatchcard.com/), a venture-backed startup that is building financial products for small business owners.
+- Founding Engineer at [Fizz](https://www.joinfizz.com/), a venture-backed fintech startup (YC W21). We are building the financial ally for students - a debit card that builds credit and offers discounts on campus. Interested? We are [hiring](https://fizz.crew.work/jobs) 
 - I am also a [Kleiner Perkins Engineering Fellow](https://fellows.kleinerperkins.com/) in the 2021 Cohort.
 
 
 ## Previous Jobs
+- Worked as a Frontend Developer at [Hatch Credit, Inc](https://www.hatchcard.com/), a venture-backed startup that is building financial products for small business owners.
 - I was a [Facebook](https://meta.com/) intern at their Seattle office where I learned all things ✨Android✨.
 - I worked at [Dev: A Harvard Student Agency](https://www.hsa.dev/) as a full-stack developer where I built web and mobile apps for 2 years.
 - My first developer job was at [Twende Mobility](https://www.twende.app/), a Kenyan startup that is building logistics solutions such as carpooling and on demand delivery services.
@@ -32,8 +32,6 @@ Harvard University - Bachelor of Arts, Computer Science. Graduated in 2021
 <br>
 <details>
   <summary>What I'm currently learning</summary>
- 
-  - Building cool websites with [Webflow](https://webflow.com/)
   - 3D website development with [ThreeJS](https://threejs.org/)
 </details>
 
