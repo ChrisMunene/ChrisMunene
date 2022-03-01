@@ -37,9 +37,7 @@ Harvard University - Bachelor of Arts, Computer Science. Graduated in 2021
 
 
 <details>
-  <summary>Projects I am currently working on</summary>
- 
- - 🏠 Short term rental marketplace - Stack: `React` and `Rails`
+  <summary>Side Projects I am currently working on</summary>
  - 🎶 Collaborative playlist app - Stack: `React` and `ExpressJS`
   
 </details>
