@@ -19,7 +19,7 @@ Harvard University - Bachelor of Arts, Computer Science. Graduated in 2021
 - 🌹 UI/UX Design(Interviewing, Usability Testing/Research, Sketching) and Prototyping with [Figma](https://www.figma.com/)
 
 ## Current Job
-- Founding Engineer at [Fizz](https://www.joinfizz.com/), a venture-backed fintech startup (YC W21). We are building the financial ally for students - a debit card that builds credit and offers discounts on campus. Interested? We are [hiring](https://fizz.crew.work/jobs) 
+- Founding Engineer at [Fizz](https://www.joinfizz.com/), a venture-backed fintech startup (YC S21). We are building the financial ally for students - a debit card that builds credit and offers discounts on campus. Interested? We are [hiring](https://fizz.crew.work/jobs) 
 - I am also a [Kleiner Perkins Engineering Fellow](https://fellows.kleinerperkins.com/) in the 2021 Cohort.
 
 
