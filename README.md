@@ -39,7 +39,7 @@ Harvard University - Bachelor of Arts, Computer Science. Graduated in 2021
   - Favorite Book: The Design of Everyday Things - Don Norman
   - Favorite Movies: The ShawShank Redemption, InterStellar, Shutter Island, The Dark Knight and Iron Man.
   - Favorite Series: Avatar - The Last Air Bender, The Office and Game of Thrones (Before season 8 sunk that mighty ship).
-  - My go to jams when coding: Afrobeat! Favorite: Damages - Tems ⭐️
+  - My go to jams when coding: Afrobeat! ⭐️
   - I love playing/watching soccer⚽ in my free time.
 </details>
 
