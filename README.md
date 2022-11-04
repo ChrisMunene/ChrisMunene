@@ -7,8 +7,8 @@ Harvard University - Bachelor of Arts, Computer Science. Graduated in 2021
 
 ## I am passionate about:
  - Human-centered design
- - Creating beautiful, performant and user-friendly app and website experiences.
  - Finding simple solutions to complex problems.
+ - Creating beautiful, performant and user-friendly app and website experiences.
  - Experimenting with new technologies.
  
 
