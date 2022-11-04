@@ -13,10 +13,11 @@ Harvard University - Bachelor of Arts, Computer Science. Graduated in 2021
  
 
 ## Areas of Expertise
-- 👩🏻‍💻 Front-End Development with [React](https://reactjs.org/)
 - 📱 Mobile Development with [Flutter](https://flutter.dev/), [React Native](https://reactnative.dev/) or  [Kotlin](https://kotlinlang.org/)
+- 👩🏻‍💻 Front-End Development with [React](https://reactjs.org/)
 - 📊 Data Visualization with [D3.js](https://d3js.org/)
-- 🌹 UI/UX Design(Interviewing, Usability Testing/Research, Sketching) and Prototyping with [Figma](https://www.figma.com/)
+- 🌹 UI/UX Design and Prototyping with [Figma](https://www.figma.com/)
+- 💾 Back-end Development with [Firebase](https://firebase.google.com/) or [NodeJS](https://nodejs.org/en/)
 
 ## Current Job
 - Founding Engineer at [Fizz](https://www.joinfizz.com/), a venture-backed fintech startup (YC S21). We are building the financial ally for students - a debit card that builds credit and offers discounts on campus. Interested? We are [hiring](https://fizz.crew.work/jobs) 
