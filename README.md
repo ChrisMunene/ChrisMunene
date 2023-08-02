@@ -2,8 +2,9 @@
 <img src="https://user-images.githubusercontent.com/25585576/87606357-73367700-c703-11ea-8221-cf2972c923cb.png" alt="Hero image">
 
 ## Education 🎓
-Harvard University - Bachelor of Arts, Computer Science. Graduated in 2021
-AIT Budapest - Study Abroad, Human Computer Interaction & Graphics classes. Also learned some Hungarian which I have forgotten but I swear I knew some of it. 
+- **Harvard University** - Bachelor of Arts, Computer Science. Graduated in 2021
+- **AIT Budapest** - Study Abroad, Human Computer Interaction & Graphics.
+- **Mang'u High School** - Graduated with highest national honors
 
 
 ## I am passionate about:
@@ -36,13 +37,11 @@ AIT Budapest - Study Abroad, Human Computer Interaction & Graphics classes. Also
   <br>
   <p><i>Here we go.... 🎶</i><p>
   
-  - I love aeroplanes✈️ and anything to do with Aviation. 
-  - I love video games 🎮. Current favorites: Legend of Zelda (Breath of the Wild), Super Mario Odyssey and Red Dead Redemption 2.
-  - Favorite Book: The Design of Everyday Things - Don Norman
-  - Favorite Movies: The ShawShank Redemption, InterStellar, Shutter Island, The Dark Knight and Iron Man.
-  - Favorite Series: Avatar - The Last Air Bender, The Office and Game of Thrones (Before season 8 sunk that mighty ship).
-  - My go to jams when coding: Afrobeat! ⭐️
-  - I love playing/watching soccer⚽ in my free time.
+  - I love aeroplanes✈️ and anything to do with Aviation. In another life I would totally be a pilot. 
+  - I love video games 🎮. Current favorites: Legend of Zelda (Tears of the Kingdom), Elden Ring, Super Mario Odyssey and Red Dead Redemption 2.
+  - Favorite Movies: The ShawShank Redemption, The wolf of Wall Street, The Dark Knight and Iron Man.
+  - Favorite Series: Avatar - The Last Air Bender, The Big Bang Theory and Game of Thrones (Before season 8).
+  - Favorite sports: Rugby and Football (Soccer). I don't have favorite teams, but usually I'm rooting for the underdog. 
 </details>
 
 <hr>
