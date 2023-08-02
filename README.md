@@ -3,6 +3,7 @@
 
 ## Education 🎓
 Harvard University - Bachelor of Arts, Computer Science. Graduated in 2021
+AIT Budapest - Study Abroad, Human Computer Interaction & Graphics classes. Also learned some Hungarian which I have forgotten but I swear I knew some of it. 
 
 
 ## I am passionate about:
