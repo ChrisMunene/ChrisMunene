@@ -25,10 +25,10 @@ Harvard University - Bachelor of Arts, Computer Science. Graduated in 2021
 
 
 ## Previous Jobs
-- Worked as a Frontend Developer at [Nearside](https://www.nearside.com/), a venture-backed startup that is building financial products for small business owners.
+- Worked as a Frontend Developer at [Nearside](https://www.nearside.com/), a venture-backed startup that is building financial products for small business owners. Nearside was acquired for $130 million by Plastiq in early 2023.
 - I was a [Facebook](https://meta.com/) intern at their Seattle office where I learned all things ✨Android✨.
 - I worked at [Dev: A Harvard Student Agency](https://www.hsa.dev/) as a full-stack developer where I built web and mobile apps for 2 years.
-- My first developer job was at [Twende Mobility](https://www.twende.app/), a Kenyan startup that is building logistics solutions such as carpooling and on demand delivery services.
+- My first developer job was at [Twende Mobility](https://www.twende.app/), a Kenyan startup that is building logistics solutions such as carpooling and on demand delivery services. 
 
 <details>
   <summary>Some interesting tidbits about me...</summary>
