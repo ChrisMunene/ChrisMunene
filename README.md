@@ -39,7 +39,7 @@
   
   - I love aeroplanes✈️ and anything to do with Aviation. In another life I would totally be a pilot. 
   - I love video games 🎮. Current favorites: Legend of Zelda (Tears of the Kingdom), Elden Ring, Super Mario Odyssey and Red Dead Redemption 2.
-  - Favorite Movies: The ShawShank Redemption, The wolf of Wall Street, The Dark Knight and Iron Man.
+  - Favorite Movies: The ShawShank Redemption, Gladiator, The wolf of Wall Street, The Dark Knight and Iron Man.
   - Favorite Series: Avatar - The Last Air Bender, The Big Bang Theory and Game of Thrones (Before season 8).
   - Favorite sports: Rugby and Football (Soccer). I don't have favorite teams, but usually I'm rooting for the underdog. 
 </details>
