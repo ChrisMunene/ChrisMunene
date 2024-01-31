@@ -4,7 +4,7 @@
 ## Education 🎓
 - **Harvard University** - Bachelor of Arts, Computer Science. Graduated in 2021
 - **AIT Budapest** - Study Abroad, Human Computer Interaction & Graphics.
-- **Mang'u High School** - Graduated with highest national honors
+- **Mang'u High School** - Graduated with highest national honors (A of 84 points)
 
 
 ## I am passionate about:
