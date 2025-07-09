@@ -15,14 +15,14 @@
  
 
 ## Areas of Expertise
-- 📱 Mobile Development with [Flutter](https://flutter.dev/), [React Native](https://reactnative.dev/) or  [Kotlin](https://kotlinlang.org/)
+- 📱 Mobile Development with [Flutter](https://flutter.dev/)
 - 👩🏻‍💻 Front-End Development with [React](https://reactjs.org/)
 - 📊 Data Visualization with [D3.js](https://d3js.org/)
 - 🌹 UI/UX Design and Prototyping with [Figma](https://www.figma.com/)
-- 💾 Back-end Development with [Firebase](https://firebase.google.com/) or [NodeJS](https://nodejs.org/en/)
+- 💾 Back-end Development with [NodeJS](https://nodejs.org/en/) or [Firebase](https://firebase.google.com/) 
 
 ## Current Job
-- Founding Engineer at [Fizz](https://www.joinfizz.com/), a venture-backed fintech startup (YC S21). We are building the financial ally for students - a debit card that builds credit and offers discounts on campus. Interested? We are [hiring](https://fizz.crew.work/jobs) 
+- Founding Engineer at [Fizz](https://www.joinfizz.com/), a fintech startup in New York (YC S21). Fizz is on a mission to help young adults achieve their dreams, by setting them on the path to financial independence. Our debit card that builds credit is beloved by students at 300+ universities and was named best credit builder product by Business Insider. Fizz is backed by Kleiner Perkins, SV Angel, Y Combinator, and the founders of eight Unicorns. Interested? We are [hiring](https://fizz.crew.work/jobs) 
 - I am also a [Kleiner Perkins Engineering Fellow](https://fellows.kleinerperkins.com/) in the 2021 Cohort.
 
 
