@@ -1,17 +1,16 @@
-
-<img src="https://user-images.githubusercontent.com/25585576/87606357-73367700-c703-11ea-8221-cf2972c923cb.png" alt="Hero image">
+# Fax
 
 ## Education 🎓
 - **Harvard University** - Bachelor of Arts, Computer Science. Graduated in 2021
 - **AIT Budapest** - Study Abroad, Human Computer Interaction & Graphics.
-- **Mang'u High School** - Graduated with highest national honors (A of 84 points)
 
 
 ## I am passionate about:
- - Human-centered design
- - Finding simple solutions to complex problems.
- - Creating beautiful, performant and user-friendly app and website experiences.
- - Experimenting with new technologies.
+ - Human-centered design. Have you ever used a product and it just feels great and you can't even explain why, it just..fits? I strive for that. 
+ - Creating beautiful, performant and user-friendly digital experiences. (Performant may be a bit hyperbolic but boi are they beautiful!)
+ - Finding simple solutions to complex problems. Yes, it's possible, things don't always have to be hard. 
+ - Experimenting with new technologies
+ - Breaking things, sometimes not on purpose 
  
 
 ## Areas of Expertise
@@ -19,7 +18,7 @@
 - 👩🏻‍💻 Front-End Development with [React](https://reactjs.org/)
 - 📊 Data Visualization with [D3.js](https://d3js.org/)
 - 🌹 UI/UX Design and Prototyping with [Figma](https://www.figma.com/)
-- 💾 Back-end Development with [NodeJS](https://nodejs.org/en/) or [Firebase](https://firebase.google.com/) 
+- 💾 Back-end Development with [NodeJS](https://nodejs.org/en/) 
 
 ## Current Job
 - Founding Engineer at [Fizz](https://www.joinfizz.com/), a fintech startup in New York (YC S21). Fizz is on a mission to help young adults achieve their dreams, by setting them on the path to financial independence. Our debit card that builds credit is beloved by students at 300+ universities and was named best credit builder product by Business Insider. Fizz is backed by Kleiner Perkins, SV Angel, Y Combinator, and the founders of eight Unicorns. Interested? We are [hiring](https://fizz.crew.work/jobs) 
@@ -27,10 +26,10 @@
 
 
 ## Previous Jobs
-- Worked as a Frontend Developer at [Nearside](https://www.nearside.com/), a venture-backed startup that is building financial products for small business owners. Nearside was acquired for $130 million by Plastiq in early 2023.
-- I was a [Facebook](https://meta.com/) intern at their Seattle office where I learned all things ✨Android✨.
+- Worked as a Frontend Developer at [Nearside](https://www.nearside.com/), another fintech startup that is building financial products for small business owners. Nearside was acquired for $130 million by Plastiq in early 2023
+- I was a [Facebook](https://meta.com/) intern at their Seattle office where I learned all things Android.
 - I worked at [Dev: A Harvard Student Agency](https://www.hsa.dev/) as a full-stack developer where I built web and mobile apps for 2 years.
-- My first developer job was at [Twende Mobility](https://www.twende.app/), a Kenyan startup that is building logistics solutions such as carpooling and on demand delivery services. 
+- My first developer job was at Twende Mobility, a Kenyan startup that ~~is~~ *cough* **was** building logistics solutions such as carpooling and on demand delivery services. 
 
 <details>
   <summary>Some interesting tidbits about me...</summary>
@@ -40,8 +39,8 @@
   - I love aeroplanes✈️ and anything to do with Aviation. In another life I would totally be a pilot. 
   - I love video games 🎮. Current favorites: Legend of Zelda (Tears of the Kingdom), Elden Ring, Super Mario Odyssey and Red Dead Redemption 2.
   - Favorite Movies: The ShawShank Redemption, Gladiator, The wolf of Wall Street, The Dark Knight and Iron Man.
-  - Favorite Series: Avatar - The Last Air Bender, The Big Bang Theory and Game of Thrones (Before season 8).
-  - Favorite sports: Rugby and Football (Soccer). I don't have favorite teams, but usually I'm rooting for the underdog. 
+  - Favorite Series: Avatar - The Last Air Bender, The Big Bang Theory and Game of Thrones (Before season 8)
+  - Favorite sports: Rugby, Motorsports and Football (Soccer). I don't have favorite teams, but usually I'm rooting for the underdog 
 </details>
 
 <hr>
