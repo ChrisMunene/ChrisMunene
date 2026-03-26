@@ -1,4 +1,4 @@
-Before I say anything: if you're a recruiter or founder looking to hire someone, just hire me bruh. I'm cracked. 
+Before I say anything: if you're a founder or recruiter looking for talent, just hire me bruh. I'm cracked. 
 
 Don't overthink it. My contact info is below. Just do it. 
 
