@@ -20,7 +20,7 @@ Don't overthink it. My contact info is below. Just do it.
 - 📊 Data Visualization with [D3.js](https://d3js.org/)
 - 🌹 UI/UX Design and Prototyping with [Figma](https://www.figma.com/)
 - 💾 Back-end Development with [NodeJS](https://nodejs.org/en/). Learning Go because apparently I'm not a "real developer"
-- 🧠 Vibe-coding. Yes, you can be an expert at this. Have you heard of Gstack? It's like God mode. 
+- 🧠 Vibe-coding. Yes, you can be an expert at this. Have you heard of Gstack? It's like God mode (iykyk)
 
 ## Current Job
 - Founding Engineer at [Mine Financial](https://www.usemine.com/), a fintech startup in New York (YC S21). Mine is on a mission to help young adults achieve their dreams, by setting them on the path to financial independence. Our debit card that builds credit is beloved by students at 300+ universities and was named best credit builder product by Business Insider. Mine is backed by Kleiner Perkins, SV Angel, Y Combinator, and the founders of eight Unicorns.
