@@ -23,7 +23,7 @@ Don't overthink it. My contact info is below. Just do it.
 - 🧠 Vibe-coding. Yes, you can be an expert at this. Have you heard of Gstack? It's like God mode (iykyk)
 
 ## Current Job
-- Founding Engineer at [Mine Financial](https://www.usemine.com/), a fintech startup in New York (YC S21). Mine is on a mission to help young adults achieve their dreams, by setting them on the path to financial independence. Our debit card that builds credit is beloved by students at 300+ universities and was named best credit builder product by Business Insider. Mine is backed by Kleiner Perkins, SV Angel, Y Combinator, and the founders of eight Unicorns.
+- Founding Engineer at [Mine Financial](https://www.usemine.com/), a fintech startup in New York (YC S21). I built the Mine app from scratch and have since owned the full consumer-facing surface — mobile app, web, and paywalls. I designed and built several critical full-stack systems across Mine's foundation, including KYC, subscriptions, card switching, and credit monitoring, as well as the attribution pipelines that helped Mine scale to over 1 million users. Most recently, I led the frontend for the Mine rebrand, spend tracking, and the new Marketplace, and built MoneyGPT, Mine's AI-powered personal finance agent.
 - I am also a [Kleiner Perkins Engineering Fellow](https://fellows.kleinerperkins.com/) in the 2021 Cohort
 
 
