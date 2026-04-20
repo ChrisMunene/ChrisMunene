@@ -19,7 +19,7 @@ Don't overthink it. My contact info is below. Just do it.
 - 👩🏻‍💻 Front-End Development with [React](https://reactjs.org/)
 - 📊 Data Visualization with [D3.js](https://d3js.org/)
 - 🌹 UI/UX Design and Prototyping with [Figma](https://www.figma.com/)
-- 💾 Back-end Development with [NodeJS](https://nodejs.org/en/). Learning Go because apparently I'm not a "real developer"
+- 💾 Back-end Development with [NodeJS](https://nodejs.org/en/) and [FastAPI](https://fastapi.tiangolo.com/). Learning Go because apparently I'm not a "real developer"
 - 🧠 Vibe-coding. Yes, you can be an expert at this. Have you heard of Gstack? It's like God mode (iykyk)
 
 ## Current Job
