@@ -10,7 +10,7 @@ Don't overthink it. My contact info is below. Just do it.
 ## I am passionate about: 
  - Creating beautiful, performant and user-friendly digital experiences. (Performant may be a bit *hyperbolic* here, but BOI ARE THEY BEAUTIFUL!!)
  - Human-centered design. I care about people, mostly. 
- - Finding simple solutions to complex problems. Yes, it's possible. 
+ - Finding simple solutions to complex problems.
  - Experimenting with new technologies. 
  - Breaking things, sometimes not on purpose.  
 
