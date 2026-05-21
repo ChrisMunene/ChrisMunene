@@ -31,7 +31,7 @@ Don't overthink it. My contact info is below. Just do it.
 - Worked as a Frontend Developer at [Nearside](https://www.nearside.com/), another fintech startup that is building financial products for small business owners. Nearside was acquired for $130 million by Plastiq in early 2023. 
 - I was a [Facebook](https://meta.com/) intern at their Seattle office where I learned all things Android, and tasted the so called "golden handcuffs". 
 - I worked at [Dev: A Harvard Student Agency](https://www.hsa.dev/) as a full-stack developer where I built web and mobile apps for 2 years. 
-- My first developer job was at Twende Mobility, a Kenyan startup that ~~is~~ *cough* **was** building logistics solutions such as carpooling and on demand delivery services. We thought Uber was cooked at the time. But they rigged the game and paid to play. Booo! 
+- My first developer job was at Twende Mobility, a Kenyan startup that ~~is~~ *cough* **was** building logistics solutions such as carpooling and on demand delivery services in Nairobi. The edge was context and integration into local systems. We thought Uber was cooked at the time. But they rigged the game and paid to play. Booo! 
 
 <details>
   <summary>Some interesting tidbits about me...</summary>
