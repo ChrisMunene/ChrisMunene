@@ -22,12 +22,9 @@ Don't overthink it. My contact info is below. Just do it.
 - 💾 Back-end Development with [NodeJS](https://nodejs.org/en/) and [FastAPI](https://fastapi.tiangolo.com/). Learning Go because apparently I'm not a "real developer"
 - 🧠 Vibe-coding. Yes, you can be an expert at this. Have you heard of Gstack? It's like God mode (iykyk)
 
-## Current Job
+## Work Experience
 - Founding Engineer at [Mine Financial](https://www.usemine.com/), a fintech startup in New York (YC S21). I built the Mine app from scratch and have since owned the full consumer-facing surface — mobile app, web, and paywalls. I designed and built several critical full-stack systems across Mine's foundation, including KYC, subscriptions, card switching, and credit monitoring, as well as the attribution pipelines that helped Mine scale to over 1 million users. Most recently, I led the frontend for the Mine rebrand, spend tracking, and the new Marketplace, and built MoneyGPT, Mine's AI-powered personal finance agent.
 - I am also a [Kleiner Perkins Engineering Fellow](https://fellows.kleinerperkins.com/) in the 2021 Cohort
-
-
-## Previous Jobs
 - Worked as a Frontend Developer at [Nearside](https://www.nearside.com/), another fintech startup that is building financial products for small business owners. Nearside was acquired for $130 million by Plastiq in early 2023. 
 - I was a [Facebook](https://meta.com/) intern at their Seattle office where I learned all things Android, and tasted the so called "golden handcuffs". 
 - I worked at [Dev: A Harvard Student Agency](https://www.hsa.dev/) as a full-stack developer where I built web and mobile apps for 2 years. 
