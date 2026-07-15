@@ -1,7 +1,3 @@
-Before I say anything: if you're a founder or recruiter looking for talent, just hire me bruh. I'm cracked. 
-
-Don't overthink it. My contact info is below. Just do it. 
-
 ## Education 🎓
 - **Harvard University** - Bachelor of Arts, Computer Science. Graduated in 2021. Yes, during peak covid. It was great, *sigh* 
 - **AIT Budapest** - Study Abroad. Took classes on Human Computer Interaction, Computer Graphics & Mobile App Dev. And learned Hungarian. 
