@@ -19,6 +19,7 @@
 - 🧠 Vibe-coding. Yes, you can be an expert at this. Have you heard of Gstack? It's like God mode (iykyk)
 
 ## Work Experience
+- Product Engineer at [Cherry](https://withcherry.com/), a healthcare fintech focused on making healthcare affordable by enabling patients to pay for treatments over time ie. "buy now pay later" plans. I work on payment processing, provider dashboards and various "special projects". 
 - Founding Engineer at [Mine Financial](https://www.usemine.com/), a fintech startup in New York (YC S21). I built the Mine app from scratch and have since owned the full consumer-facing surface — mobile app, web, and paywalls. I designed and built several critical full-stack systems across Mine's foundation, including KYC, subscriptions, card switching, and credit monitoring, as well as the attribution pipelines that helped Mine scale to over 1 million users. Most recently, I led the frontend for the Mine rebrand, spend tracking, and the new Marketplace, and built MoneyGPT, Mine's AI-powered personal finance agent.
 - I am also a [Kleiner Perkins Engineering Fellow](https://fellows.kleinerperkins.com/) in the 2021 Cohort
 - Worked as a Frontend Developer at [Nearside](https://www.nearside.com/), another fintech startup that is building financial products for small business owners. Nearside was acquired for $130 million by Plastiq in early 2023. 
